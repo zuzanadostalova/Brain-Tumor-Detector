@@ -1,15 +1,11 @@
 # Brain Tumor Detector
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+## Project objective:
 
-## Project Intro/Objective:
-
-- The purpose of this project is to detect brain tumors from MRI scans
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-## The objective:
-
-- To correctly classify brain tumors into four classes - glioma, meningioma, notumor, pituitary
+- The purpose of this project is to:
+    - detect brain tumors from MRI scans 
+    - to correctly classify brain tumors into four classes - glioma, meningioma, notumor, pituitary
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Methods Used:
