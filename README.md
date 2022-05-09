@@ -34,7 +34,7 @@ An intracranial tumor is an abnormal mass of tissue in which cells grow and mult
 - Data augmentation can help improve performance of an image classifier.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-## Conclusion:
+## Conclusions:
 
 - The predictor performs better on augmented images (F1-score = 0.95) than on the original ones (F1-score = 0.89)
 - Meningiomas get misdiagnosed as gliomas because they resemble each other on MRI, which is problematic as meningiomas are mostly benign
