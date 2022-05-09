@@ -4,6 +4,7 @@
 ## Project objective:
 
 - The purpose of this project is to:
+
     - detect brain tumors from MRI scans 
     - to correctly classify brain tumors into four classes - glioma, meningioma, notumor, pituitary
 
@@ -29,6 +30,12 @@ An intracranial tumor is an abnormal mass of tissue in which cells grow and mult
 ## Hypothesis:
 
 - Data augmentation can help improve performance of an image classifier.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+## Conclusion:
+
+- The predictor performs better on augmented images (F1-score = 0.95) than on the original ones (F1-score = 0.89)
+- Meningiomas get misdiagnosed as gliomas because they resemble each other on MRI, which is problematic as meningiomas are mostly benign
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Getting Started
