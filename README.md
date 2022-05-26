@@ -31,7 +31,7 @@ An intracranial tumor is an abnormal mass of tissue in which cells grow and mult
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hypothesis:
 
-- Data augmentation can help improve performance of an image classifier.
+- Data augmentation can help improve the performance of an image classifier.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Conclusions:
