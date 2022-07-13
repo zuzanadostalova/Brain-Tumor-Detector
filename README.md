@@ -37,7 +37,7 @@ An intracranial tumor is an abnormal mass of tissue in which cells grow and mult
 ## Conclusions:
 
 - The predictor performs better on augmented images (F1-score = 0.95) than on the original ones (F1-score = 0.89)
-- Meningiomas get misdiagnosed as gliomas because they resemble each other on MRI, which is problematic as meningiomas are mostly benign
+- Meningiomas get misdiagnosed as gliomas because they resemble each other on MRI, which is problematic as gliomas are malignant 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Getting Started
